@@ -5,5 +5,5 @@ __pycache__/
 .pytest_cache/
 .vscode/
 .idea/
-workspace/*
-!workspace/.gitkeep
+workspace/
+tests/
